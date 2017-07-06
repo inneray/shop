@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="src" path="test"/>
+	<classpathentry kind="con" path="org.eclipse.jst.j2ee.internal.module.container"/>
+	<classpathentry kind="con" path="melibrary.com.genuitec.eclipse.j2eedt.core.MYECLIPSE_JAVAEE_5_CONTAINER"/>
+	<classpathentry kind="con" path="com.genuitec.runtime.library/com.genuitec.generic_6.0"/>
+	<classpathentry kind="con" path="com.genuitec.runtime.library/com.genuitec.jstl_1.2.1">
+		<attributes>
+			<attribute name="org.eclipse.jst.component.dependency" value="WEB-INF/lib"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.USER_LIBRARY/c3p0-0.9"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.USER_LIBRARY/ehcache-1.2.3"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.USER_LIBRARY/hibernate-3.6"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.USER_LIBRARY/json-lib-2.2.2"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.USER_LIBRARY/mysql-connector-java-5.1.24"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.USER_LIBRARY/spring-3.2-aop"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.USER_LIBRARY/spring-3.2-core"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.USER_LIBRARY/spring-3.2-persistence"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.USER_LIBRARY/spring-3.2-web"/>
+	<classpathentry kind="con" path="com.genuitec.runtime.library/com.genuitec.me4s/junit_4.7">
+		<attributes>
+			<attribute name="org.eclipse.jst.component.dependency" value="WEB-INF/lib"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="C:/Users/wangy/Downloads/lib/struts-2.3/ognl-3.0.5.jar"/>
+	<classpathentry kind="lib" path="C:/Users/wangy/MyEclipse 2016 CI/plugins/com.genuitec.eclipse.j2eedt.core_13.0.0.me201605020208/data/libraryset/EE_6/javax.resource.jar"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.USER_LIBRARY/struts-2.3"/>
+	<classpathentry kind="output" path="WebRoot/WEB-INF/classes"/>
+</classpath>
